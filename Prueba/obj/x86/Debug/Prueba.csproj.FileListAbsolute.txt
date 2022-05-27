@@ -1,0 +1,20 @@
+C:\Users\nicof\AppData\Local\Temporary Projects\Prueba\bin\Debug\Prueba.exe
+C:\Users\nicof\AppData\Local\Temporary Projects\Prueba\bin\Debug\Prueba.pdb
+C:\Users\nicof\AppData\Local\Temporary Projects\Prueba\obj\x86\Debug\Prueba.Form1.resources
+C:\Users\nicof\AppData\Local\Temporary Projects\Prueba\obj\x86\Debug\Prueba.Properties.Resources.resources
+C:\Users\nicof\AppData\Local\Temporary Projects\Prueba\obj\x86\Debug\Prueba.csproj.GenerateResource.Cache
+C:\Users\nicof\AppData\Local\Temporary Projects\Prueba\obj\x86\Debug\Prueba.exe
+C:\Users\nicof\AppData\Local\Temporary Projects\Prueba\obj\x86\Debug\Prueba.pdb
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.exe
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.Properties.Resources.resources
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.csproj.GenerateResource.Cache
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.pdb
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.Ppal.resources
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.frmTest.resources
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.frmClientes.resources
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.frmAltaCliente.resources
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.frmArticulos.resources
+C:\Users\nicof\Dropbox (Anterior)\PC\Documents\Visual Studio 2010\Projects\Prueba\Prueba\obj\x86\Debug\Prueba.frmAltaArticulos.resources
