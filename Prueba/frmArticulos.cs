@@ -19,7 +19,7 @@ namespace Prueba
 
         private void frmArticulos_Load(object sender, EventArgs e)
         {
-            string cadena = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\\ITSC\\ITSC 2022\\TSDS\\Base de datos\\Access\\toldito.mdb;User Id=admin;Password=;";
+            string cadena = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=G:\\programacion\\BASE DE DATOS\\BD\\toldito.mdb;User Id=admin;Password=;";
             OleDbConnection con = new OleDbConnection(cadena);
             con.Open();
             string sql = "select * from Articulos";

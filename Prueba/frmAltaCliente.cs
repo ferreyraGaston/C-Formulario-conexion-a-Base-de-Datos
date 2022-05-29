@@ -46,7 +46,7 @@ namespace Prueba
             string domicilio = txtDomicilio.Text;
             decimal telefono = Convert.ToDecimal(txtTelefono.Text);
             string email = txtEmail.Text;
-            string cadena = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\\ITSC\\ITSC 2022\\TSDS\\Base de datos\\Access\\toldito.mdb;User Id=admin;Password=;";
+            string cadena = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=G:\\programacion\\BASE DE DATOS\\BD\\toldito.mdb;User Id=admin;Password=;";
             string sql = "INSERT INTO clientes(nombre,apellido,domicilio,telefono,email) VALUES('"+nombre+"','"+apellido+"','"+domicilio+"',"+telefono+",'"+email+"')";
 
             OleDbConnection con = new OleDbConnection(cadena);
@@ -61,6 +61,11 @@ namespace Prueba
             txtDomicilio.Text = "";
             txtNombre.Text = "";
             txtTelefono.Text = "";
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

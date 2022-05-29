@@ -22,8 +22,8 @@ namespace Prueba
             string nombre = txtNombre.Text;
             decimal precio = Decimal.Parse(txtPrecio.Text);
             decimal stock = Decimal.Parse(txtStock.Text);
-            
-            string cadena = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\\ITSC\\ITSC 2022\\TSDS\\Base de datos\\Access\\toldito.mdb;User Id=admin;Password=;";
+
+            string cadena = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=G:\\programacion\\BASE DE DATOS\\BD\\toldito.mdb;User Id=admin;Password=;";
             string sql = "INSERT INTO articulos(nombre,precio,stock) VALUES('" + nombre + "'," + precio + "," + stock + ")";
 
             OleDbConnection con = new OleDbConnection(cadena);
